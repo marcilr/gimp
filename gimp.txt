@@ -1,0 +1,13 @@
+gimp.txt
+Created Thu Jan 25 09:43:08 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Gimp
+
+
+Links
+=====
+Gimp
+GNU Image Manipulation Program
+https://www.gimp.org/
