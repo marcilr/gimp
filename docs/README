@@ -6,5 +6,9 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 xcf.txt
-  XCF (file format)
+  XCF, short for eXperimental Computing Facility,[1] is the native
+  image format of the GIMP image-editing program.  It saves all of
+  the data the program handles related to the image, including,
+  among others, each layer, the current selection, channels,
+  transparency, paths and guides.
   https://en.wikipedia.org/wiki/XCF_(file_format)
