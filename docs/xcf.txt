@@ -10,9 +10,21 @@ among others, each layer, the current selection, channels,
 transparency, paths and guides.
 --en.wikipedia.org/wiki/XCF_(file_format)
 
+XCF is a file extension for an image file native to GIMP.  XCF
+stands for eXperimental Computing Facility.  Similar to a
+Photoshop Document (PSD), XCF files support saving layers,
+channels, transparency, paths and guides, yet don't support
+saving the undo history.
+--whatis.techtarget.com/fileformat/XCF-GIMP-document
+
 
 Links
 =====
 XCF (file format)
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/XCF_(file_format)
+
+XCF File Format
+GIMP document
+https://whatis.techtarget.com/fileformat/XCF-GIMP-document
+
